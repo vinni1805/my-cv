@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.header{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(25, 86, 84);
+    color: rgb(227, 215, 40);
+    text-align: center;
+    font-family: cursive;
+}
+.first{
+    height: 500px;
+    width: 100%;
+    background-image: url("lappic.avif");
+    background-size:cover;
+    /* text-align: center; */
+    color: aliceblue;
+     display: flex;
+    align-items: center; 
+}
+#text{
+    padding-top:100px ;
+    font-family: cursive  ;
+    font-size: larger;
+    font-weight: 800;
+    padding-left: 700px;
+}
+/* #mainbox{
+    height: 47px;
+    width: 130px;
+    border: 1px solid white;
+    margin-top: 400px;
+    margin-right: 500px;
+} */
+.pink{
+    color: rgb(198, 35, 89);
+    font-size: 50px;
+    font-weight: 700;
+    font-family: cursive;
+}
+#about{
+    text-align: center;
+}
+#resume{
+    text-align: center;
+}
+.border{
+    background-color: aquamarine;
+    height: 10px;
+}
+#skills{
+    text-align: center;
+}
+#contact{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.feedback{
+    text-decoration: none;
+    height: 150px;
+    width: 900PX;
+    background-color: black;
+    color: rgb(107, 60, 95);
+}
+.hd{
+    color: rgb(198, 25, 89);
+}
+#footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 80px;
+    width: 100%;   
+   display: inline-flex;
+   justify-content: center; 
+}
+.icon{
+    width: 80px;
+}
+.progress{
+    width: 1000px;
+}
+.pp{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
